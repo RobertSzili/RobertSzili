@@ -7,5 +7,5 @@ Currently proceeding through test
 cases to release the first revision
 of the generating and simulational
 engine.
-If you have questions, send a main
+If you have questions, send a mail
 to robi.biciklis@gmail.com
